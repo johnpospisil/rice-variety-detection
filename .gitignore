@@ -5,3 +5,7 @@ cnn_results.jpg
 transfer_learning_accuracy.jpg
 transfer_learning_matrix.jpg
 transfer_learning_results.jpg
+transfer_learning_improved_accuracy.jpg
+transfer_learning_improved_matrix.jpg
+transfer_learning_improved_results.jpg
+.gitignore
