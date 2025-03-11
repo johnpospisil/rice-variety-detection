@@ -9,3 +9,6 @@ transfer_learning_improved_accuracy.jpg
 transfer_learning_improved_matrix.jpg
 transfer_learning_improved_results.jpg
 .gitignore
+cnn_imporved_matrix.jpg
+cnn_improved_accuracy.jpg
+cnn_improved_results.jpg
